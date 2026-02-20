@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>vCard Download</title>
+</head>
+<body>
+  <h2>Ma vCard</h2>
+  <a href="SergeViquerat.vcf" download="SergeViquerat.vcf">Télécharger ma vCard</a>
+</body>
+</html>
